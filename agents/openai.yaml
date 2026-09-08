@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vlog 人设叙事"
+  short_description: "先完成十问，再用真实时间线、反常选择与行为证据设计Vlog人设"
+  default_prompt: "使用 $vlog-persona-storyline 为我的账号设计一条真实、可拍摄的Vlog人设叙事。"
+
+policy:
+  allow_implicit_invocation: true
